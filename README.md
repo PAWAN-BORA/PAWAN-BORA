@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pawan.
 - 👀 I’m interested in codings.
-- 🌱 I’m currently learning webrtc, nodejs, mediasoup.
+- 🌱 I’m currently learning webassembly.
 
 
 <!---
