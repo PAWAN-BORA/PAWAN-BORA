@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pawan.
 - 👀 I’m interested in codings.
-- 🌱 I’m currently learning webassembly.
 
 
 <!---
